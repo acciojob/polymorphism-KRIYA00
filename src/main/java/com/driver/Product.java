@@ -1,6 +1,6 @@
 package com.driver;
 
-public class product
+public class Product
 {
 
         public int product(int x, int y)
